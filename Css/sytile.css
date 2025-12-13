@@ -1,0 +1,30 @@
+body{
+    font-family: Arial,sans-serif;
+    background-color: aqua;
+    text-align: center;
+    padding: 50px;
+}
+
+h1{
+    color: #116d6e;
+}
+input{
+    padding: 8px;
+    margin: 10px;
+}
+button{
+    padding: 10px 15px;
+    background-color: #116d6e ;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #116d6e;
+}
+#mensaje{
+    margin-top: 20px;
+    font-weight: bold;
+    color: indianred;
+}
+
